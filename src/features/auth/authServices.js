@@ -1,4 +1,4 @@
-export const GLOBAL_URL = 'http://localhost:5000/api/v1'
+export const GLOBAL_URL = 'https://goal-mern-redux-backend.onrender.com/api/v1'
 
 //Register user
 export const register = async(user) => {
